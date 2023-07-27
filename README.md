@@ -2,16 +2,32 @@
 
 <img src="https://github.com/LucasLuisBorges/link/blob/master/public/readme/1.png" width="100%">
 
-Install
+## Tecnologias Utilizadas
+- React
+- Styled-Components
+- Bootstrap (se estiver usando alguma biblioteca ou framework adicional)
+
+## Instalação
+Siga as etapas abaixo para configurar e executar o projeto localmente.
+
+1. Clone o repositório
+```bash
+git clone https://github.com/LucasLuisBorges/link.git
+cd link
+```
+
+2. Instale as dependências
 ```bash
 npm install
-# or
+# ou
 yarn install
 ```
 
-Start
+3. Execute o projeto
 ```bash
 npm start
-# or
+# ou
 yarn start
 ```
+
+O aplicativo estará disponível em http://localhost:3000.
